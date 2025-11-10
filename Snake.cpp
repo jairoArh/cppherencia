@@ -1,5 +1,4 @@
 #include "Snake.h"
-#include "Animal.h"
 
 Snake::Snake():Animal(){
   Snake::antidote = "Rezar...";
